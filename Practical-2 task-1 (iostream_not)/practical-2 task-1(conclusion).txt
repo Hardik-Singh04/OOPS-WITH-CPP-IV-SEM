@@ -1,0 +1,1 @@
+The conclusion of this taskis that if we use cout while not using iostream header file then we saw that the code passes the preprocessor phase but was not able to pass the compiler phase and hence was giving a fatal error.   
