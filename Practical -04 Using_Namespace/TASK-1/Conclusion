@@ -1,0 +1,1 @@
+Calling the method using scope resolution operator(SRO) in order to perform the same function with different parameters and return the different parameters so that the compiler didn't get confused to perform the task.
