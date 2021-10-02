@@ -1,0 +1,3 @@
+char data type stores one character at a time so when we input the string in a char variable it will store only the first character and rest of the characters will be lost from the memory and if we print that char variable it will only print that one character which the variable is holding.
+
+Solution of this problem is that we have to define the array of characters in order to store the string input by the user so that no character is lost from the memory and we use the predefined function  getline() in cin to input all the characters in an array.
