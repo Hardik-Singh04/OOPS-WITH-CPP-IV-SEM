@@ -1,0 +1,1 @@
+The code will be able to pass the preprocessor phase but not be able to pass the compilation phase and will give an error of ambiguity because both the base class have the variable k with same name on heap and the complier will get confuse that which variable you want to use so it will generate an error
