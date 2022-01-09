@@ -1,0 +1,1 @@
+As we are throwing the character it is not caught by the catch of the integer type so it goes to the default catch statement and the statement that runs is "terminate called after throwing an instance of 'char' ".
