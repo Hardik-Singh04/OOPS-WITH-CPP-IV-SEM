@@ -8,10 +8,10 @@ int main()
     //v1-Insert elements into a <int, string> map
     //v2-Insert elements in random order
     a.insert(pair<int,string>(1,"name"));
-    a.insert(pair<int,string>(5,"Vipul"));
+    a.insert(pair<int,string>(5,"Hardik"));
     a.insert({2,"is"});
     a.insert({0,"My"});
-    a.insert({10,"Chauhan"});
+    a.insert({10,"Singh"});
     
     //v3-Iterate this map using iterator and print its keys and values
     map<int,string>::iterator i;
