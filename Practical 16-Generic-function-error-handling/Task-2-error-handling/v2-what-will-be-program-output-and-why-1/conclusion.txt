@@ -1,0 +1,1 @@
+As we are throwing the character it is not caught by the catch of the integer type so it goes to the second catch statement because that catch statment is of type void and that statement runs.
