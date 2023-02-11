@@ -1,1 +1,0 @@
-When we use cout without including iostream header file in our c++ code then code will pass the preprocessor phase but it will not be able pass the compiler phase of the g++ compiler.

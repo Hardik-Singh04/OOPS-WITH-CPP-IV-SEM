@@ -1,1 +1,0 @@
-The compilation phase of the compiler will fail and error will be shown that the function is ambiguous and it will also give us the warning of implicit conversion as now  some data will get manipulated and the program will never get compiled because of ambiguous behaviour of the code .

@@ -1,1 +1,0 @@
-As we can see from the code that c++ does not create any other reference of the string rather than it modifies the same string as we can see that the address of the string is same before and after modifing of the string so we can say that strings in c++ are mutable. It means that we can change the value of the string whenever we want and we can also see this from the code.
