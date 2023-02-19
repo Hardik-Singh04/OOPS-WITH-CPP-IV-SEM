@@ -1,0 +1,1 @@
+char data type stores one character at a time in it so when we input the string in a char variable only first character will be stored and rest of the characters will be lost from the memory and when we print the char variable it will only print that one character which the variable is holding.
