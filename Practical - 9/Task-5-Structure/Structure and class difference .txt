@@ -1,0 +1,39 @@
+Differences between class and struct are:
+
+1-Definition -A structure is a grouping of variables of various data types referenced by the same name. Whereas in C++, a class is defined as a collection of related variables and functions contained within a single structure.
+
+2-Access Specifiers-If no access specifier is specified, all members of the structure are set to 'public'. And if no access specifier is defined, all members of the class are set to 'private'.
+
+3-Memory-Memory of structure is allocated on the stack. And memory of class is allocated on the heap.
+
+4-Security-All the members of the structure can be accessed throughout the program. Whereas the class gives us the option to keep the members of the class public, private, protected.
+
+5-Instance-Structure instance is called the 'structure variable'. A class instance is called 'object'.
+
+6-Purpose-Structure is used in grouping of data and class is used for data abstraction and further inheritance.
+
+7-Usage-Structure is used for smaller amounts of data. Class is used for a huge amount of data.
+
+8-Constructor destructor-Structure may have only parameterised constructor.	While class may have all the types of constructors and destructors.
+
+9-Inheritance-Structure does not support inheritance.While class supports inheritance.
+
+10-Declaration of-
+
+Structure 																				
+struct structure_name
+{														
+	type struct_member 1;															
+	type struct_member 2;															
+	type struct_member 3;															
+	.
+	.
+	type struct_memberN;
+};
+
+Class
+class class_name
+{
+	data member;
+	member function;
+};
